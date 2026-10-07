@@ -3,7 +3,7 @@
 貼上一段中文，自動找出裡面的人名：中文姓名（切出「姓」與「名」）、外文音譯名、日文名。
 BERT 模型（`model_bert_colab_v6e`，int8 量化）用 onnxruntime-web **直接在瀏覽器裡執行**，輸入的文字不會上傳到任何地方。
 
-- 線上試用：GitHub Pages 網址（部署後填入）
+- 線上試用：https://zensworkspace001-afk.github.io/cnt-web/
 - 規格書：[SPEC.md](SPEC.md)
 
 ![AI 模式截圖](screenshots/ai-mode.png)
